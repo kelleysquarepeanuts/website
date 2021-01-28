@@ -1,0 +1,27 @@
+body {
+    background-color: #6e3d27;
+}
+
+#main {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main img {
+    height: 350px;
+    width: 350px;
+}
+
+#main p a {
+    text-decoration: none;
+    color: rgb(235, 235, 235);
+    font-size: 20px;
+    transition: color 0.5s;
+}
+
+#main p a:hover {
+    color:rgb(204, 204, 204);
+    transition: color 0.5s;
+}
